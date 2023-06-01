@@ -1,2 +1,2 @@
 ### Запуск сайта
-https://github.com/miazigoo/miazigoo.github.io/tree/main/pages
+miazigoo.github.io/pages/index_1.html
